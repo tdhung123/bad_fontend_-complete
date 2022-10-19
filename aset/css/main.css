@@ -164,6 +164,7 @@ img.imgslider {
     padding: 64px 0px;
     margin-left:auto;
     margin-right: auto;
+    padding-right: 8px;
 }
 #content .conten_1_1{
     font-weight: 500;
