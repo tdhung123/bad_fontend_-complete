@@ -475,6 +475,21 @@ background-color: #ccc!important;
     color: rgba(0, 0, 0, 0.3);
 }
 @media (max-width: 1023px) {
+    .conten_1_1_1_1 {
+        width: calc(100% - 44px);
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .booktour {
+        width: calc(100% - 46px);
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .row.places-list {
+        width: calc(100% - 32px);
+        margin-left: auto;
+        margin-right: auto;
+      }
     .places-list .place-butter{
     padding: 15px 16px;
 }
